@@ -1,0 +1,12 @@
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\bin\Debug\net5.0\ApartmentManagement.Shared.deps.json
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\bin\Debug\net5.0\ApartmentManagement.Shared.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\bin\Debug\net5.0\ApartmentManagement.Shared.pdb
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.csproj.AssemblyReference.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.AssemblyInfoInputs.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.AssemblyInfo.cs
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.csproj.CoreCompileInputs.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\refint\ApartmentManagement.Shared.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ApartmentManagement.Shared.pdb
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Shared\obj\Debug\net5.0\ref\ApartmentManagement.Shared.dll

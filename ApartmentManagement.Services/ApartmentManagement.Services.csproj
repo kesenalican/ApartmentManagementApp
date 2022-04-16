@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApartmentManagement.Data\ApartmentManagement.Data.csproj" />
+    <ProjectReference Include="..\ApartmentManagement.Entities\ApartmentManagement.Entities.csproj" />
+    <ProjectReference Include="..\ApartmentManagement.Shared\ApartmentManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

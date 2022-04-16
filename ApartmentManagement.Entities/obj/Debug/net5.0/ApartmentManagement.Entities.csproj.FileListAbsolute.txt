@@ -1,0 +1,15 @@
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\bin\Debug\net5.0\ApartmentManagement.Entities.deps.json
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\bin\Debug\net5.0\ApartmentManagement.Entities.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\bin\Debug\net5.0\ApartmentManagement.Entities.pdb
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\bin\Debug\net5.0\ApartmentManagement.Shared.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\bin\Debug\net5.0\ApartmentManagement.Shared.pdb
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.csproj.AssemblyReference.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.AssemblyInfoInputs.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.AssemblyInfo.cs
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.csproj.CoreCompileInputs.cache
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.csproj.CopyComplete
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\refint\ApartmentManagement.Entities.dll
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ApartmentManagement.Entities.pdb
+C:\uygulamam\ApartmentManagement\ApartmentManagement.Web\ApartmentManagement.Entities\obj\Debug\net5.0\ref\ApartmentManagement.Entities.dll
