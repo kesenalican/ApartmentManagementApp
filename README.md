@@ -1,9 +1,9 @@
 # ApartmentManagementApp
 This is an apartment management app. 
 
-# .Net Core Bitirme Projesi
+# .Net Core Bitirme Projesi</br>
 Açıklama : Bir sitede yöneticisiniz. Sitenizde yer alan dairelerin aidat ve ortak kullanım
-elektrik, su ve doğalgaz faturalarının yönetimini bir sistem üzerinden yapacaksınız.
+elektrik, su ve doğalgaz faturalarının yönetimini bir sistem üzerinden yapacaksınız.</br>
 İki tip kullanıcınız var:
 1-Admin/Yönetici
 ● Daire bilgilerini girebilir.
